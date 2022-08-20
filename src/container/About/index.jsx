@@ -1,8 +1,8 @@
 // Index/index.jsx
 import React from 'react'
 
-export default function Index() {
+export default function About() {
   return <div>
-    About
+    About me
   </div>
 }
